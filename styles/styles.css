@@ -1411,7 +1411,7 @@ body {
 
 .product-card {
   display: grid;
-  column-gap: 26px;
+  column-gap: 25px;
   row-gap: 16px;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: auto 36px 36px;
